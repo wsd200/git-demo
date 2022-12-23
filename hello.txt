@@ -1,5 +1,5 @@
-hello Git! 123456
-hello Git! 123456
+hello Git! 123
+hello Git! 123
 hello Git!
 hello Git!
 hello Git!
